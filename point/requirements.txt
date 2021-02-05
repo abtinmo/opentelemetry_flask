@@ -1,0 +1,9 @@
+Flask==1.1.2
+redis==3.5.3
+requests==2.25.1
+typesystem==0.2.4
+opentelemetry-exporter-jaeger==0.17b0
+opentelemetry-instrumentation==0.17b0
+opentelemetry-instrumentation-flask==0.17b0
+opentelemetry-instrumentation-psycopg2==0.17b0
+opentelemetry-instrumentation-requests==0.17b0
